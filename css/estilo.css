@@ -100,3 +100,7 @@ section {
 .card {
     margin: 10px;
 }
+
+.form-control {
+    background-color: #9CC856;
+}
