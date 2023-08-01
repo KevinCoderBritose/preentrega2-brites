@@ -86,3 +86,17 @@ section {
     font-size: 20px;
     color: white;
 }
+.cards-c {
+    display: flex;
+    
+}
+.card-body {
+    background-color: chartreuse;
+    
+    
+}
+
+
+.card {
+    margin: 10px;
+}
