@@ -2,11 +2,21 @@
     padding: 0;
     margin: 0;
 }
-
+body {
+    background-color: #E4F0D1;
+}
 header {
     border-bottom: 1px black solid;
 }
-
+main {
+    background-color: #E4F0D1;
+    margin: 30px;
+    
+}
+section {
+    background-color: #E4F0D1;
+    margin: 30px;
+}
 .logo {
     width: 200px;
     height: 100px;
@@ -14,11 +24,40 @@ header {
 
 .fuentes {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 25px;   
+    font-size: 25px;
 }
+
 .navbar {
-    background-color: #3E6218;   
+    background-color: #9CC856;
 }
+
 .navbar-nav a {
     color: white;
+}
+
+.texto-car {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.foto-t {
+    width: 600px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.col-md-6 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.fuente-t {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer {
+    background-color: #9CC856;
 }
